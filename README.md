@@ -59,6 +59,6 @@ To build a simple yet effective **proximity alert system** for laptops that impr
 
 ## 👨‍💻 Author
 Rohith Manne
-LinkedIn • GitHub
+[LinkedIn](https://www.linkedin.com/in/rohith-manne) • [GitHub](https://github.com/Rohith3333)
 
 ⭐ Star this repository if you found it helpful!
